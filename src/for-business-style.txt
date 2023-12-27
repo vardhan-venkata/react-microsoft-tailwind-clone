@@ -1,0 +1,17 @@
+{cards.map((card) => {
+        const { id, title, desc, image,imageUrl,link } = card
+
+        return (
+          <article key={id} className="p-8">
+            <div>
+                {/* {images1.map((ulr,idx) => (
+                    <img src={ulr} alt="card" />
+                ))} */}
+                <img src={imageUrl} alt="card" />
+                <h3 className="font-semibold text-xl mt-2 mb-1">{title}</h3>
+                <p>{desc}</p>
+                <button className="cursor-pointer text-blue-600 font-semibold hover:underline transition-transform border-b-blue-500">
+                    {link}
+                </button>
+            </div>
+            </article>)})}
