@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-microsoft-tailwind-clone/static/css/main.c0f91223.css",
+    "main.js": "/react-microsoft-tailwind-clone/static/js/main.a5aba470.js",
+    "static/js/787.566df8f4.chunk.js": "/react-microsoft-tailwind-clone/static/js/787.566df8f4.chunk.js",
+    "static/media/onedrive.webp": "/react-microsoft-tailwind-clone/static/media/onedrive.0bfce232c5ff7fddf444.webp",
+    "static/media/microsoft365.jpg": "/react-microsoft-tailwind-clone/static/media/microsoft365.0e16d1aa5671a7f81d4a.jpg",
+    "static/media/surfacepro8.webp": "/react-microsoft-tailwind-clone/static/media/surfacepro8.88a664ff3935579c0549.webp",
+    "static/media/xbox.jpg": "/react-microsoft-tailwind-clone/static/media/xbox.6f5ef5996cec3b147c7d.jpg",
+    "static/media/hybridworld.jpg": "/react-microsoft-tailwind-clone/static/media/hybridworld.3f33c3981e4481d3e09d.jpg",
+    "static/media/edge.webp": "/react-microsoft-tailwind-clone/static/media/edge.ed8ff7060c42477bbd48.webp",
+    "static/media/microsoftteams.webp": "/react-microsoft-tailwind-clone/static/media/microsoftteams.5d047f4e399cd1cdefb9.webp",
+    "static/media/windows11.webp": "/react-microsoft-tailwind-clone/static/media/windows11.96e5fec4c4775e6f52aa.webp",
+    "static/media/surfacelaptopstudio.webp": "/react-microsoft-tailwind-clone/static/media/surfacelaptopstudio.e3043f2bc89e8b0c52a1.webp",
+    "static/media/surfacelaptop4.webp": "/react-microsoft-tailwind-clone/static/media/surfacelaptop4.11b010fa3f15ef97c21a.webp",
+    "index.html": "/react-microsoft-tailwind-clone/index.html",
+    "static/media/xbox.webp": "/react-microsoft-tailwind-clone/static/media/xbox.d2f7703bcea65578c53c.webp",
+    "static/media/surface.webp": "/react-microsoft-tailwind-clone/static/media/surface.4b36b01b540aa960d496.webp",
+    "main.c0f91223.css.map": "/react-microsoft-tailwind-clone/static/css/main.c0f91223.css.map",
+    "main.a5aba470.js.map": "/react-microsoft-tailwind-clone/static/js/main.a5aba470.js.map",
+    "787.566df8f4.chunk.js.map": "/react-microsoft-tailwind-clone/static/js/787.566df8f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f91223.css",
+    "static/js/main.a5aba470.js"
+  ]
+}
